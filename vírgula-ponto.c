@@ -2,10 +2,10 @@
 #include<stdio.h>
 
 int main(){
-	int t = 1; //t é o total de chars
+	int t = 0; //t é o total de chars
 	int n = 0; //n é o total de vírgulas
 	int i;
-	for(i = 0; i < t ; i++){
+	for(i = 0; i < t + 1 ; i++){
 		char a;
 		scanf("%c", &a);
 		if(a != 33 && a != 44){
