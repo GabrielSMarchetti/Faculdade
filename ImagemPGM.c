@@ -2,11 +2,11 @@
 ////////////////////////////////////////////////////////////////
 //                                                            //
 // Numero USP - Nome Completo                                 //
-// 														                                //
-// 12543270 - Gabriel Salami Marchetti						            //
-//															                              //
-// 12523868 - Lucas Neco de Castro				            			  //
-//														                                //
+// 							      //
+// 12543270 - Gabriel Salami Marchetti		              //
+//							      //
+// 12523868 - Lucas Neco de Castro			      //
+//							      //
 ////////////////////////////////////////////////////////////////
 
 // voce pode adicionar novos includes se achar necessario...
