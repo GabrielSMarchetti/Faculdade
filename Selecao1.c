@@ -1,3 +1,11 @@
+/*
+
+Sorting algorithm used to measure it's time complexity and
+plotting the graph of how long it take to sort an array.
+
+Then it was compared with Selecao2.c to study their diferences.
+
+*/
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
